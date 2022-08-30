@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    width: 100%;
+    min-width: 320px;
+    min-height: 100vh;
+    line-height: 24px;
+    font-family: var(--video-font-family-base);
+    font-size: 16px;
+    font-weight: 400;
+    overflow-x:hidden;
+    color: var(--video-c-text-1);
+    background-color: var(--video-c-bg);
+    direction: ltr;
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}

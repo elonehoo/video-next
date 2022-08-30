@@ -1,0 +1,18 @@
+:root{
+    --video-z-index-nav:20;
+    --video-z-index-footer:50;
+    --video-c-bg:#FFFFFF;
+    --video-c-divider-light:rgba(60,60,60,0.12);
+    --video-nav-height-mobile: 56px;
+    --video-nav-height-desktop: 72px;
+    --video-layout-max-width: 1440px;
+    --video-primary: 31, 116, 255;
+    --video-secondary: 121, 49, 177;
+    --video-danger: 255, 71, 87;
+    --video-success: 70, 201, 58;
+    --video-warning: 255,186,0;
+    --video-dark: 30, 30, 30;
+    --video-light: 245, 245, 245;
+    --video-font-family-base:"Inter var experimental", "Inter var", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    --video-c-text-1: #213547;
+}
